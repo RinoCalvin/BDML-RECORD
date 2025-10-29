@@ -191,6 +191,3 @@ python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords'); nltk
 # Access at: http://localhost:5000
 ```
 
-## License
-
-This project is licensed under the MIT License.
